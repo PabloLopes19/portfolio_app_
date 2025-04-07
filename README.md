@@ -1,6 +1,6 @@
-# Capa
+# Hygge App
 
-**Projeto:** Aplicativo Mobille para postagens e compartilhamentos de viagens pessoais.
+**Projeto:** Hygge: Poste e compartilhe suas viagens e experiências mundo a fora.
 **Aluno:** Pablo Lopes
 **Curso:** Engenharia de Software.
 **Data:** 29 de março de 2025
@@ -15,34 +15,29 @@ O projeto é um aplicativo mobile voltado para entusiastas de viagens que deseja
 
 ## 1. Introdução
 
-    Contexto: Breve descrição do contexto que envolve o projeto.
-    Justificativa: Explicação da relevância do projeto para o campo da engenharia de software.
-    Objetivos: Descrição do objetivo principal do projeto e de quaisquer objetivos secundários.
+A fim de construir uma aplicação mobile, que traga uma maneira nova das pessoas interagirem e compartilharem momentos e experiências, é proposto um aplicativo onde seja possível um usuário criar uma conta, fazer postagens, curtir e compartilhar viagens de outros usuários.
 
-## 2. Descrição do Projeto
+Então, com isso é criado o Hygge, nele é possível compartilhar e interagir com pessoas e suas experiências ao redor do globo. Para isso, foi optado por um aplicativo para dispositivos móveis, pois isso possibilita o acesso de um número maior de usuários, e facilita a criação e visualização dos posts uma vez que os usuários podem usar a aplicação de qualquer lugar.
 
 ---
 
-    Tema do Projeto: Detalhes do tema, incluindo o produto ou ferramenta a ser desenvolvido.
-    Problemas a Resolver: Lista dos principais problemas que o projeto visa resolver.
-    Limitações: Delimitação dos problemas que o projeto não abordará.
+## 2. Descrição do Projeto
+
+Nas décadas recentes, redes sociais se tornaram o tipo de sistema mais popular entre a grande massa de usuários. Cada plataforma se propôs a criar um diferente experimento social humano. O tema escolido então, para este projeto é o de viagens. Considerando que a grande maioria das pessoas opta por fazer viagens em férias e no tempo livre. E a grande maioria das pessoas compartilha esses momentos com seus amigos e familiares através de redes sociais comuns, através de fotos com Instagram ou vídeos curtos com TikTok e YouTube Shorts ou até vídeos mais bem produzidos no YouTube.
+
+---
 
 ## 3. Especificação Técnica
 
-Descrição detalhada da proposta, incluindo requisitos de software, protocolos, algoritmos, procedimentos, formatos de dados, etc.
+Descrição detalhada da proposta, incluindo requisitos de súoftware, protocolos, algoritmos, procedimentos, formatos de dados, etc.
 
 ### 3.1. Requisitos de Software
 
-    Apresentar os requisitos do tema proposto.
-    Lista de Requisitos: Apresentar uma lista contendo os Requisitos Funcionais (RF) e Não-Funcionais (RNF).
-    Representação dos Requisitos: Representar os RFs por meio de um Diagrama de Casos de Uso (UML).
+Apresentar os requisitos do tema proposto. Lista de Requisitos: Apresentar uma lista contendo os Requisitos Funcionais (RF) e Não-Funcionais (RNF). Representação dos Requisitos: Representar os RFs por meio de um Diagrama de Casos de Uso (UML).
 
 ### 3.2. Considerações de Design
 
-    Discussão sobre as escolhas de design, incluindo alternativas consideradas e justificativas para as decisões tomadas.
-    Visão Inicial da Arquitetura: Descrição dos componentes principais e suas interconexões.
-    Padrões de Arquitetura: Indicação de padrões específicos utilizados (ex.: MVC, Microserviços).
-    Modelos C4: Detalhamento da arquitetura em níveis: Contexto, Contêineres, Componentes, Código.
+Discussão sobre as escolhas de design, incluindo alternativas consideradas e justificativas para as decisões tomadas. Visão Inicial da Arquitetura: Descrição dos componentes principais e suas interconexões. Padrões de Arquitetura: Indicação de padrões específicos utilizados (ex.: MVC, Microserviços). Modelos C4: Detalhamento da arquitetura em níveis: Contexto, Contêineres, Componentes, Código.
 
 ### 3.3. Stack Tecnológica
 
